@@ -40,7 +40,7 @@ const ShoppingCart = ( { cart, emptyCart }: { cart: Product[], emptyCart: () => 
         )}
       </button>
       {isOpen && (
-        <div className="absolute right-0 mt-2 w-64 bg-white border border-gray-200 rounded-md shadow-lg">
+        <div className="absolute right-0 mt-2 w-80 bg-white border border-gray-200 rounded-md shadow-lg">
           <ul className="py-2">
             {cart.length === 0 ? (
               <li className="px-4 py-2 text-gray-500">El carrito está vacío</li>

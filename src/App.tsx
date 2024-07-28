@@ -8,6 +8,7 @@ import Products from './components/Products';
 import Footer from './components/Footer';
 import { useEffect, useState } from 'react';
 import { Product } from './models/Product';
+import NotFound from './components/NotFound';
 
 function App() {
 
@@ -45,6 +46,7 @@ function App() {
         <Route path="/contacto" element={<Contacto />} />
         <Route path="/productos" element={<Products addToCart={addToCart} />} />
         <Route path="/nosotros" element={<About />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </Router>

@@ -23,7 +23,7 @@ const Products = ({ addToCart }: { addToCart: (product: Product) => void }) => {
                 <div key={product.id} className="bg-white shadow-lg rounded-lg p-6 flex flex-col items-center text-center">
                     <h2 className="text-black font-semibold mb-4">{product.name}</h2>
                     <p className="text-gray-700 mb-6">{product.description}</p>
-                    <span className="text-black font-bold">S/.{product.price}</span>
+                    <span className="text-black font-bold mb-4">S/.{product.price}</span>
                     <button 
                     onClick={() => addToCart(product)}
                     className="bg-blue-500 text-white px-6 py-3 rounded-full hover:bg-blue-600 transition duration-300"
