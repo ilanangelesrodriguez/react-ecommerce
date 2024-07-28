@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta de manga corta",
+        "price": 15,
+        "description": "Camiseta de manga corta para hombre"
+    },
+    {
+        "id": 2,
+        "name": "Camiseta de manga larga",
+        "price": 20,
+        "description": "Camiseta de manga larga para hombre"
+    },
+    {
+        "id": 3,
+        "name": "Pantalón vaquero",
+        "price": 30,
+        "description": "Pantalón vaquero para hombre"
+    },
+    {
+        "id": 4,
+        "name": "Zapatillas deportivas",
+        "price": 50,
+        "description": "Zapatillas deportivas para hombre"
+    },
+    {
+        "id": 5,
+        "name": "Camiseta de manga corta",
+        "price": 10,
+        "description": "Camiseta de manga corta para mujer"
+    },
+    {
+        "id": 6,
+        "name": "Camiseta de manga larga",
+        "price": 15,
+        "description": "Camiseta de manga larga para mujer"
+    },
+    {
+        "id": 7,
+        "name": "Pantalón vaquero",
+        "price": 25,
+        "description": "Pantalón vaquero para mujer"
+    },
+    {
+        "id": 8,
+        "name": "Zapatillas deportivas",
+        "price": 40,
+        "description": "Zapatillas deportivas para mujer"
+    },
+    {
+        "id": 9,
+        "name": "Camiseta de manga corta",
+        "price": 8,
+        "description": "Camiseta de manga corta para niño"
+    },
+    {
+        "id": 10,
+        "name": "Camiseta de manga larga",
+        "price": 12,
+        "description": "Camiseta de manga larga para niño"
+    },
+    {
+        "id": 11,
+        "name": "Pantalón vaquero",
+        "price": 20,
+        "description": "Pantalón vaquero para niño"
+    }
+]
+
+
+
+
+
+
+
+  
