@@ -3,67 +3,65 @@
         "id": 1,
         "name": "Camiseta de manga corta",
         "price": 15,
-        "description": "Camiseta de manga corta para hombre"
+        "description": "Camiseta de manga corta para hombre",
+        "stock": 1,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2Fadidas-3-Stripes-Camiseta-Hombre-Negro%2Fdp%2FB07KQ5ZQZ6&psig=AOvVaw0"
     },
     {
         "id": 2,
         "name": "Camiseta de manga larga",
         "price": 20,
-        "description": "Camiseta de manga larga para hombre"
+        "description": "Camiseta de manga larga para hombre",
+        "stock": 0,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2Fadidas-3-Stripes-Camiseta-Hombre-Negro%2Fdp%2FB07KQ5ZQZ6&psig=AOvVaw0"
     },
     {
         "id": 3,
-        "name": "Pantalón vaquero",
+        "name": "Pantalón de deporte",
         "price": 30,
-        "description": "Pantalón vaquero para hombre"
+        "description": "Pantalón de deporte para hombre",
+        "stock": 7,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2Fadidas-3-Stripes-Camiseta-Hombre-Negro%2Fdp%2FB07KQ5ZQZ6&psig=AOvVaw0"
     },
     {
         "id": 4,
-        "name": "Zapatillas deportivas",
+        "name": "Zapatillas de deporte",
         "price": 50,
-        "description": "Zapatillas deportivas para hombre"
+        "description": "Zapatillas de deporte para hombre",
+        "stock": 3,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2Fadidas-3-Stripes-Camiseta-Hombre-Negro%2Fdp%2FB07KQ5ZQZ6&psig=AOvVaw0"
     },
     {
         "id": 5,
-        "name": "Camiseta de manga corta",
+        "name": "Gorra",
         "price": 10,
-        "description": "Camiseta de manga corta para mujer"
+        "description": "Gorra para hombre",
+        "stock": 15,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2Fadidas-3-Stripes-Camiseta-Hombre-Negro%2Fdp%2FB07KQ5ZQZ6&psig=AOvVaw0"
     },
     {
         "id": 6,
-        "name": "Camiseta de manga larga",
-        "price": 15,
-        "description": "Camiseta de manga larga para mujer"
+        "name": "Calcetines",
+        "price": 5,
+        "description": "Calcetines para hombre",
+        "stock": 20,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2Fadidas-3-Stripes-Camiseta-Hombre-Negro%2Fdp%2FB07KQ5ZQZ6&psig=AOvVaw0"
     },
     {
         "id": 7,
-        "name": "Pantalón vaquero",
+        "name": "Mochila",
         "price": 25,
-        "description": "Pantalón vaquero para mujer"
+        "description": "Mochila para hombre",
+        "stock": 8,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2Fadidas-3-Stripes-Camiseta-Hombre-Negro%2Fdp%2FB07KQ5ZQZ6&psig=AOvVaw0"
     },
     {
         "id": 8,
-        "name": "Zapatillas deportivas",
-        "price": 40,
-        "description": "Zapatillas deportivas para mujer"
-    },
-    {
-        "id": 9,
-        "name": "Camiseta de manga corta",
-        "price": 8,
-        "description": "Camiseta de manga corta para niño"
-    },
-    {
-        "id": 10,
-        "name": "Camiseta de manga larga",
-        "price": 12,
-        "description": "Camiseta de manga larga para niño"
-    },
-    {
-        "id": 11,
-        "name": "Pantalón vaquero",
-        "price": 20,
-        "description": "Pantalón vaquero para niño"
+        "name": "Reloj",
+        "price": 100,
+        "description": "Reloj para hombre",
+        "stock": 2,
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.es%2Fadidas-3-Stripes-Camiseta-Hombre-Negro%2Fdp%2FB07KQ5ZQZ6&psig=AOvVaw0"
     }
 ]
 

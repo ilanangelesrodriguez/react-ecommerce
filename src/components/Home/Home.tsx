@@ -8,9 +8,9 @@ export default function Home() {
     return (
         <>
             <div className="h-screen flex justify-center items-center bg-teal-300 mt-8">
-                <div className="p-12 text-center w-5/6 backdrop-blur-xl bg-white/30">
+                <div className="p-10 text-center w-5/6 backdrop-blur-xl bg-white/30">
                     <div className="main__div">
-                        <h1 className="main__div-h1">Tu mejor aventura comienza aquí.</h1>
+                        <h1 className="text-4xl ">Tu mejor aventura comienza aquí.</h1>
                         <span className="main__div-span">¡Sé feliz acá!</span>
                     </div>
 

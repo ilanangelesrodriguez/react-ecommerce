@@ -2,7 +2,7 @@ export default function About() {
     return (
         <div className="min-h-screen flex items-center justify-center bg-gray-100">
             <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-2xl">
-                <h2 className="text-black  font-bold mb-4 text-center">Acerca de Nosotros</h2>
+                <h1 className="text-black text-2xl font-bold mb-4 text-center">Acerca de Nosotros</h1>
                 <p className="text-lg text-gray-700 mb-6 text-center">
                     Conoce más sobre nosotros
                 </p>
